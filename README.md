@@ -64,11 +64,11 @@ This project helps understand:
 1. **Clone the repository**:
 ```bash
 git clone https://github.com/pradeepsingh077/tic_tac_toe.projects.git
-
+```
 2. **Run the game**:
 ```bash
 python tic_tac_toe.py
-
+```
 
 ## Welcome to Tic Tac Toe!
 
